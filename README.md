@@ -1,3 +1,3 @@
 ## Informações 🤔  
 
-Contém minha informações pessoais organizacionais.
+Contém minhas informações pessoais organizacionais.
