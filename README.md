@@ -1,3 +1,1 @@
-## About
-
-It's a simple personal site using HTML5 UP template.
+It's my personal site using HTML5 UP template.
