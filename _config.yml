@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Andreas Zeller
+title: Samuel Ferino
 layout: default
 plugins:
     - jekyll-optional-front-matter
@@ -16,12 +16,12 @@ defaults:
       layout: default
 tagline: Software research at CISPA and Saarland University
 twitter:
-    - username: AndreasZeller
+    - username: samuellucas97
 social:
   links:
     - https://mastodon.social/@AndreasZeller
-description: Andreas Zeller does software research on automated debugging, mining software archives, specification mining, and security testing at CISPA and Saarland University
-bio: Andreas Zeller is faculty at the 
+description: Samuel Ferino does software research on automated debugging, mining software archives, specification mining, and security testing at CISPA and Saarland University
+bio: Samuel Ferino is faculty at the 
     <a href="https://www.cispa.de" target=_blank>CISPA Helmholtz Center for Information Security</a> and professor for Software Engineering at 
     <a href="https://saarland-informatics-campus.de/en/" target=_blank>Saarland University</a><!--, both in Saarbrücken, Germany-->.  
     His <a href="https://scholar.google.com/citations?user=-Qytr_YAAAAJ&hl=en&oi=ao" target=_blank>research</a> 
@@ -43,5 +43,5 @@ bio: Andreas Zeller is faculty at the
     <span class="sr-only">Twitter:</span>&nbsp;&nbsp;<a href="https://www.twitter.com/AndreasZeller" title="Twitter" target="_blank">@AndreasZeller</a> <br>
     <i class="fa fa-github fa-fw" aria-hidden="true" title="GitHub"></i>
         <span class="sr-only">GitHub:</span>&nbsp;&nbsp;<a href="https://github.com/andreas-zeller" title="GitHub" target="_blank">andreas-zeller</a>
-logo: assets/Zeller2022-head.jpg
-logo_title: Andreas Zeller (high resolution photo)
+logo: assets/Samuel2023-head.jpeg
+logo_title: Samuel Ferino (high resolution photo)
