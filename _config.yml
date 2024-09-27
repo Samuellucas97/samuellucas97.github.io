@@ -14,22 +14,22 @@ defaults:
       path: "*.md"
     values:
       layout: default
-tagline: Researcher at the Federal University of Rio Grande do Norte
+tagline: PhD candidate at Monash University
 twitter:
     - username: samuellucas97
 social:
   links:
     - https://www.linkedin.com/in/samuel1797
-description: Samuel Ferino does software research on DevOps education at Federal University of Rio Grande do Norte
-bio: Samuel Ferino is a external researcher at the  
-    <a href="https://www.ufrn.br/en" target=_blank>Federal University of Rio Grande do Norte (UFRN)</a>, in Natal/Brazil.  
-    His <a href="https://scholar.google.com/citations?user=eEdG2_0AAAAJ&hl=en" target=_blank>research</a> 
-    on DevOps Education has proven <a href="/assets/SamuelCV.pdf">highly influential</a>. He also works on the iNMS 5G project, involving 
-    collaboration between Lenovo company and Digital Metropole Institute (IMD) at UFRN.
+description: Samuel Ferino does software research on Human-AI for Software Engineering at Monash University
+bio: Samuel Ferino is a PhD candidate at   
+    <a href="https://www.monash.edu" target=_blank>Monash University</a>, in Melbourne/Australia. 
+    He is also member of <a href=" https://www.monash.edu/it/humanise-lab" target=_blank>HumaniSE Lab</a>, 
+    leaded by ARC Laureate Professor John Grundy.
+  
 
     <p>
     <i class="fa fa-envelope-o fa-fw" aria-hidden="true" title="Mail"></i>
-    <span class="sr-only">Mail:</span>&nbsp;&nbsp;<a href="mailto:samuellucas97@ufrn.edu.br" title="Mail">samuellucas97@ufrn.edu.br</a> <br>
+    <span class="sr-only">Mail:</span>&nbsp;<a href="mailto:samuel.demouraferino@monash.edu" title="Mail">samuel.demouraferino@monash.edu</a> <br>
     <i class="fa fa-linkedin fa-fw" aria-hidden="true" title="Linkedin"></i>
     <span class="sr-only">Linkedin:</span>&nbsp;&nbsp;<a rel="me noopener"  href="https://www.linkedin.com/in/samuel1797" title="Linkedin" target="_blank">@samuel1797</a> <br>
     <!-- <i class="fa fa-twitter fa-fw" aria-hidden="true" title="Twitter"></i> -->

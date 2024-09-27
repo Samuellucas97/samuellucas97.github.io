@@ -8,7 +8,7 @@ _This website is based on <a href="https://andreas-zeller.info" target="_new">An
 
 ## Quick Links
 
-* <a href="2021/04/15/the-devils-guide-to-incremental-research.html" target="_new">Natal (Brazil): A travelers' guide</a>
+* <a href="2024/09/27/natal-brazil-an-more-than-enjoyable-city.html" target="_new">Natal, Brazil: More Than Just a Beautiful City</a>
 * <a href="https://scholar.google.com/citations?hl=en&user=eEdG2_0AAAAJ&view_op=list_works&sortby=pubdate" target="_new">Recent papers</a>
 
 ## Current Papers
