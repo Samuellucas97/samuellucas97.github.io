@@ -1,11 +1,13 @@
 theme: jekyll-theme-minimal
 title: Samuel Ferino
-image: "https://github.com/Samuellucas97/samuellucas97.github.io/blob/master/assets/Samuel2024-head.jpeg"
+url: "https://samuellucas97.github.io"
+image: "/assets/Samuel2024-head.jpeg"
 layout: default
 plugins:
     - jekyll-optional-front-matter
     - jekyll-redirect-from
     - jekyll-feed
+    - jekyll-seo-tag
 include:
     - README.md
 optional_front_matter:
