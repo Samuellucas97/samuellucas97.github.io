@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 title: Samuel Ferino
+image: "https://github.com/Samuellucas97/samuellucas97.github.io/blob/master/assets/Samuel2024-head.jpeg"
 layout: default
 plugins:
     - jekyll-optional-front-matter
@@ -20,6 +21,7 @@ twitter:
 social:
   links:
     - https://www.linkedin.com/in/samuel1797
+    - https://github.com/Samuellucas97
 description: Samuel Ferino does software research on Human-AI for Software Engineering at Monash University
 bio: Samuel Ferino is a PhD candidate at   
     <a href="https://www.monash.edu" target=_blank>Monash University</a>, in Melbourne/Australia. He is supervised by Prof. <a href="https://rashina.com" target=_blank>Rashina Hoda</a>, Prof. <a href="https://sites.google.com/site/johncgrundy" target=_blank>John Grundy</a>, and A/Prof. <a href="https://ctreude.ca/" target=_blank>Christoph Treude</a>.
@@ -40,4 +42,4 @@ bio: Samuel Ferino is a PhD candidate at
     <i class="fa fa-github fa-fw" aria-hidden="true" title="GitHub"></i>
         <span class="sr-only">GitHub:</span>&nbsp;&nbsp;<a href="https://github.com/Samuellucas97" title="GitHub" target="_blank">Samuellucas97</a>
 logo: assets/Samuel2024-head.jpeg
-logo_title: Samuel Ferino (high resolution photo)
+logo_title: Samuel Ferino
