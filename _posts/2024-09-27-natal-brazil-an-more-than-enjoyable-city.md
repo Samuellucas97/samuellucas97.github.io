@@ -6,7 +6,7 @@ tags: Brazil
 ---
 
 
-Natal is not just my birth city, but also one of the most beautiful cities in Brazil. If you would like to be in a warm place, Natal is your best choice. This city is known as City of Sun or Bride's Sun, so don't worry about cold, just enjoy!
+Natal is not just my hometown, but also one of the most beautiful cities in Brazil. If you would like to be in a warm place, Natal is your best choice. This city is known as City of Sun or Bride's Sun, so don't worry about cold, just enjoy!
 
 Also, don't be fooled just because Natal means Christmas in English. Natal is often celebrated for its stunning beaches and tropical climate. But beyond its sun-drenched coastline, this vibrant city offers so much more. Whether you're a history buff, an adventure seeker, or a lover of rich cultural experiences, Natal has something to offer everyone.
 
